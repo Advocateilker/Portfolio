@@ -2,7 +2,7 @@
 
 Welcome to my portfolio website! This site serves as a showcase of my skills, projects, and experiences in the realm of frontend development using React, TypeScript, and Redux.
 
-[My Portfolio](https://ilkerportfolio.netlify.app/)
+Website : [My Portfolio](https://ilkerportfolio.netlify.app/)
 
 ## Table of Contents
 
