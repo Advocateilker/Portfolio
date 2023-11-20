@@ -17,23 +17,23 @@ Hello, I'm Mustafa İlker TEKİR, a passionate Frontend Developer with expertise
 
 ### Project 1: Coins Shop
 
-- **GitHub Link:** [](https://github.com/Advocateilker/CoinsShop-Formik-Yup)
+- **GitHub Link:** [Formik-Yup](https://github.com/Advocateilker/CoinsShop-Formik-Yup)
 
 ### Project 2: X - Twitter Clone
 
-- **GitHub Link:** [](https://github.com/Advocateilker/X-Twitter--Clone-Firebase)
+- **GitHub Link:** [X-Clone](https://github.com/Advocateilker/X-Twitter--Clone-Firebase)
 
 ### Project 3: Chat
 
-- **GitHub Link:** [](https://github.com/Advocateilker/DubaiChat-FireBase)
+- **GitHub Link:** [Chat](https://github.com/Advocateilker/DubaiChat-FireBase)
 
 ### Project 4: Redux
 
-- **GitHub Link:** [](https://github.com/Advocateilker/Redux.js-ToolkitUsing)
+- **GitHub Link:** [Redux/Toolkit](https://github.com/Advocateilker/Redux.js-ToolkitUsing)
 
 ### Project 5: E-Commerce Website
 
-- **GitHub Link:** [](https://github.com/Advocateilker/React-ContextApi-Project)
+- **GitHub Link:** [E-Commerce](https://github.com/Advocateilker/React-ContextApi-Project)
 
 ## Skills
 
